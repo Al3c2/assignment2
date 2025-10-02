@@ -1,0 +1,22 @@
+{
+  "task": "nn_classification_pytorch",
+  "hidden": 16,
+  "weight_decay": 0.001,
+  "val_auc": 0.8848837209302326,
+  "thr": 0.2995734214782715,
+  "metrics": {
+    "acc": 0.7142857142857143,
+    "f1": 0.6615384615384615,
+    "auc": 0.8300000000000001
+  },
+  "feature_names": [
+    "preg",
+    "plas",
+    "pres",
+    "skin",
+    "insu",
+    "mass",
+    "pedi",
+    "age"
+  ]
+}

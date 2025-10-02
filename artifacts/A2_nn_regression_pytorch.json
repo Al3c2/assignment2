@@ -1,0 +1,19 @@
+{
+  "task": "nn_regression_pytorch",
+  "hidden": 128,
+  "weight_decay": 0.0001,
+  "val_mse": 2220.974365234375,
+  "test_mse": 3109.8580508609775,
+  "feature_names": [
+    "age",
+    "sex",
+    "bmi",
+    "bp",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6"
+  ]
+}
